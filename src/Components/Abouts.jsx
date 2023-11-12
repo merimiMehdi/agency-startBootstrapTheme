@@ -18,7 +18,7 @@ export default function Abouts() {
               title={"Our Humble Beginnings"}
             />
           </li>
-          <li class="timeline-inverted">
+          <li className="timeline-inverted">
             <About
               img={"assets/img/about/2.jpg"}
               date={"March 2011"}
@@ -34,7 +34,7 @@ export default function Abouts() {
               title={"Transition to Full Service"}
             />
           </li>
-          <li class="timeline-inverted">
+          <li className="timeline-inverted">
             <About
               img={"assets/img/about/4.jpg"}
               date={"July 2020"}
